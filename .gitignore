@@ -585,3 +585,6 @@ appsettings.Development.json
 appsettings.Local.json
 *.secrets.json
 credentials.json
+
+# Personal data for project (not to be shared)
+/data/
