@@ -582,7 +582,7 @@ $RECYCLE.BIN/
 # Secrets and credentials
 secrets.json
 appsettings.Development.json
-appsettings.Local.json
+appsettings.json
 *.secrets.json
 credentials.json
 
